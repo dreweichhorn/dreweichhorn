@@ -3,7 +3,7 @@
 My name is Drew, I am a senior at Baylor University intersted in becoming a data scientist 
 
 
-- 🔭 I’m currently working on 2 projects,
+- 🔭 I’m currently working on 2 projects:
     - Exploratory data analysis on COVID-19 data,
     - Real time virtual whiteboard for college students 
 - 🌱 I’m currently learning Front-end, Back-end, Python, Promopt-engineering, Scrum methodology 
