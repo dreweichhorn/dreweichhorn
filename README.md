@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+My name is Drew, I am a senior at Baylor University intersted in becoming a data scientist 
+
+
+- 🔭 I’m currently working on 2 projects, 1) Exploratory Data Analysis (EDA) on COVID-19 Data, 2) Real time virtual whiteboard for college students 
+- 🌱 I’m currently learning Front-end, Back-end, Python, Promopt-engineering, Scrum methodology 
 - 👯 I’m looking to collaborate on ...
 
 
