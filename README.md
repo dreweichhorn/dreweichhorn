@@ -5,7 +5,7 @@ My name is Drew, I am a senior at Baylor University intersted in becoming a data
 
 - 🔭 I’m currently working on 2 projects, 1) Exploratory data analysis on COVID-19 data, 2) Real time virtual whiteboard for college students 
 - 🌱 I’m currently learning Front-end, Back-end, Python, Promopt-engineering, Scrum methodology 
-- 👯 I’m looking to collaborate on ...
+- ⚡ I recently built a program that simulates a guessing game, check out the code here [Here]
 
 
 <!--
