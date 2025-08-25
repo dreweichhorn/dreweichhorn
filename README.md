@@ -7,7 +7,7 @@ My name is Drew, I am a senior at Baylor University intersted in becoming a data
     - Exploratory data analysis on COVID-19 data,
     - Real time virtual whiteboard for college students 
 - 🌱 I’m currently learning Front-end, Back-end, Python, Promopt-engineering, and the Scrum methodology 
-- ⚡ I recently built a GPA calculator for college students, check out the code here [Here](https://github.com/dreweichhorn/GPA_Calculator)
+- ⚡ I recently built a GPA calculator for college students, check out the code [Here](https://github.com/dreweichhorn/GPA_Calculator)
 
 
 <!--
